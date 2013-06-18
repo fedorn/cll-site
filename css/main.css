@@ -73,8 +73,13 @@ ul.posts span {
   text-decoration: none;
 }
 
-.site .header h1.title {
+/*.site .header h1.title {
   display: inline-block;
+  margin-bottom: 2em;
+}
+*/
+
+.site .header {
   margin-bottom: 2em;
 }
 
@@ -88,7 +93,7 @@ ul.posts span {
 
 .site .header a.extra {
   color: #aaa;
-  margin-left: 1em;
+  margin-right: 1em;
 }
 
 .site .header a.extra:hover {
